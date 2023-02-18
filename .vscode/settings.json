@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "cstdint": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "STM32F4XX_HAL_CONF.H": "cpp",
+        "mpu.h": "c",
+        "STM32F4XX_HAL_I2C.H": "cpp"
+    }
+}
